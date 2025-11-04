@@ -13,3 +13,6 @@ https://colab.research.google.com/drive/1-6ybFvCANqiRkaaRavESG4N-M4ft0kau?usp=sh
 4. 노트4
 
 https://colab.research.google.com/drive/12WfyOyF0LZeWEjGoO351IB7T_XpCMHMa?usp=sharing?copy=true
+
+5. 노트5
+https://colab.research.google.com/drive/1RBkg1zG91mINZgyuZ6lgSIpY0bpBXJ3d?usp=sharing?copy=true
