@@ -16,3 +16,6 @@ https://colab.research.google.com/drive/12WfyOyF0LZeWEjGoO351IB7T_XpCMHMa?usp=sh
 
 5. 노트5
 https://colab.research.google.com/drive/1RBkg1zG91mINZgyuZ6lgSIpY0bpBXJ3d?usp=sharing?copy=true
+
+6. 분석예제
+https://colab.research.google.com/drive/1etDl_GdQAIh_yf6nP5UyEfcO6So351vx?usp=sharing?copy=true
