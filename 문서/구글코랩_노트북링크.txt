@@ -19,3 +19,6 @@ https://colab.research.google.com/drive/1RBkg1zG91mINZgyuZ6lgSIpY0bpBXJ3d?usp=sh
 
 6. 분석예제
 https://colab.research.google.com/drive/1etDl_GdQAIh_yf6nP5UyEfcO6So351vx?usp=sharing?copy=true
+
+7. Scikit-learn
+https://colab.research.google.com/drive/1nqVLPKa6U1XwciTtboCJqTH7QjOcc6z2?usp=sharing?copy=true
