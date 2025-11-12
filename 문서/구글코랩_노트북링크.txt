@@ -25,3 +25,6 @@ https://colab.research.google.com/drive/1nqVLPKa6U1XwciTtboCJqTH7QjOcc6z2?usp=sh
 
 8. 딥러닝모델
 https://colab.research.google.com/drive/1sdAIMHI5V1I1uTTcuFqRSSu4FNWe8XQF?usp=sharing?copy=true
+
+9. 파이프라인
+https://colab.research.google.com/drive/1Woz9aAGDINXKNxMOcpqiwY9AEGNUuOVp?usp=sharing?copy=true
